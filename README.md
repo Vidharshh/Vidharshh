@@ -1,13 +1,32 @@
-- 👋 Hi, I’m @Vidharshh, aka Vidharshana Balamurugan currently pursuing CSE at Anna University, Chennai. 
-- 👀 I’m interested in Machine learning and data science 
-- 🌱 I’m currently learning deep learning technologies
-- 💞️ I’m looking to collaborate on anything related to artificial intelligence and machine learning 
-- 📫 How to reach me : vidharshanabalamurugan@gmail.com
+# Hi, I'm Vidharshh 👋
 
-- I am also familiar with Figma tool :)
-- Feel free to collaborate!! 
+I'm exploring the intersection of **AI, data, and practical software projects**. I enjoy learning by building, documenting what I discover, and improving systems through experimentation.
 
-<!---
-Vidharshh/Vidharshh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## What I'm exploring
+
+- **Generative AI and LLM applications** — including retrieval-augmented generation (RAG)
+- **Data and retrieval systems** — PostgreSQL, Qdrant, Neo4j, and Redis
+- **Python projects** — from experiments and notebooks to application backends
+- **Evidence-grounded answers** — tracing responses back to reliable source material
+
+## Featured projects
+
+### [Enterprise Hybrid RAG](https://github.com/Vidharshh/enterprise-hybrid-rag)
+
+A research project exploring a hybrid RAG architecture with PostgreSQL for structured data, Qdrant for vector search, Neo4j for graph relationships, Redis for caching, and Groq for hosted LLM inference.
+
+### [Artificial Intelligence Journey](https://github.com/Vidharshh/artificial_intelligence_journey)
+
+A place for AI learning notes, experiments, and project work.
+
+## Tools and technologies
+
+`Python` · `Jupyter` · `PostgreSQL` · `Qdrant` · `Neo4j` · `Redis` · `Docker` · `Groq API`
+
+## Current focus
+
+Building a research agent that can retrieve information from multiple sources, verify important claims against evidence, and be evaluated for answer quality—not just fluency.
+
+---
+
+Thanks for stopping by. I'm always learning and building something new. 🚀
